@@ -1,0 +1,96 @@
+﻿{
+  "weapons": {
+    "primary": [
+
+      {
+        "id": "P0",
+        "name": "Gun",
+        "damage": 15,
+        "price": 0
+      },
+      {
+        "id": "P1",
+        "name": "SCP-127",
+        "damage": 25,
+        "price": 15
+      },
+      {
+        "id": "P2",
+        "name": "cannon",
+        "damage": 30,
+        "price": 150
+      }
+    ],
+    "secondary": [
+      {
+        "id": "S0",
+        "name": "punch",
+        "damage": 10,
+        "price": 0
+      },
+      {
+        "id": "S1",
+        "name": "Light Saber",
+        "damage": 20,
+        "price": 15
+      },
+      {
+        "id": "S2",
+        "name": "Holiday Punch",
+        "damage": 35,
+        "price": 100
+      },
+      {
+        "id": "S3",
+        "name": "bayonet",
+        "damage": 80,
+        "price": 600
+      }
+      
+
+    ],
+
+
+    "specialmove": [
+      {
+        "id": "J0",
+        "name": "explosion",
+        "damage": 50,
+        "price": 0,
+        "turns": 4,
+        "ishealing": false
+      },
+      {
+        "id": "J1",
+        "name": "Heal",
+        "heal": 30,
+        "price": 100,
+        "turns": 4,
+        "ishealing": true
+      },
+      {
+        "id": "J2",
+        "name": "Nuke",
+        "damage": 99,
+        "price": 2910,
+        "turns": 4,
+        "ishealing": false
+      }
+
+
+
+
+    ]
+
+
+
+
+  }
+
+
+
+
+
+
+
+}
